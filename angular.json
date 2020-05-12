@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "quete-guard"
+    }
+  },
+  "defaultProject": "quete-guard",
+  "cli": {
+    "analytics": "873995c5-3703-4a0e-8aa7-754b86a52fc0"
+  }
 }
